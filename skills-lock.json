@@ -79,6 +79,12 @@
       "skillPath": "skills/imagegen-frontend-web/SKILL.md",
       "computedHash": "65f5ae59fa317567809438310b1c54f78cd133426deb43e4d3d4ca4c8f541628"
     },
+    "impeccable": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/impeccable/SKILL.md",
+      "computedHash": "acb7b8c15f55bc4709724fe25688582e270f698789da2077616d1b86dbeb6e5d"
+    },
     "improve-animations": {
       "source": "emilkowalski/skills",
       "sourceType": "github",
